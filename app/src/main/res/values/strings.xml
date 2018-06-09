@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVP E-Kart</string>
+    <string name="title_activity_main">DashboardActivity</string>
+    <string name="network_error">Please Check Your Network Connection and Try Again</string>
+    <string name="unexpected_error">Unexpected error occurred, please try Again</string>
+    <string name="loading">Please wait…</string>
+    <string name="no_data">Products Not Available</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_rankings">Rankings</string>
+    <string name="size">Size-</string>
+    <string name="rupees">₹</string>
+</resources>
